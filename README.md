@@ -12,3 +12,7 @@ Build it:
 $ cd oracle-jdk8
 $ docker build -t trinhbiendich/oracle-jdk8 .
 ```
+
+
+## Usage from docker hub
+`FROM trinhbiendich/oracle-jdk8`
